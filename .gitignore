@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/Chat
+/.vs/config
+/Extensions/bin/Debug/netstandard2.0
+/Extensions/obj
+/ExtensionTester
+/Lavoro.Data/bin/Debug/netstandard2.0
+/Lavoro.Data/obj
+/Lavoro.Domain/bin/Debug/netstandard2.0
+/Lavoro.Domain/obj
+/UnitTestProject
+/WebApi/bin/Debug/netcoreapp2.1
+/WebApi/obj
+/WebApi/Properties
